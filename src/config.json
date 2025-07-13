@@ -5,8 +5,8 @@
     "description": "🤞",
     "keywords": "浮楼塔,blog,博客",
     "lang": "zh-CN",
-    "favicon": "/favicon.ico",
-    "appleTouchIcon": "/apple-touch-icon.png"
+    "favicon": "/favicon.svg",
+    "appleTouchIcon": "/favicon.svg"
   },
   "author": {
     "name": "浮楼塔",
