@@ -42,9 +42,6 @@ export function PostCopyright({
       <p>最后修改时间：{lastModStr}</p>
       <hr className="my-3 border-primary" />
       <div>
-        <div className="float-right ml-4 my-2">
-          <AnimatedSignature />
-        </div>
         <p>
           <br />
           本文采用
