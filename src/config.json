@@ -87,7 +87,7 @@
     "startTime": "2025-07-13T00:00:00Z"
   },
   "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+    "serverURL": ""
   },
   "sponsor": {
     "wechat": ""
