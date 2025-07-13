@@ -89,6 +89,9 @@
   "waline": {
     "serverURL": "https://waline.lxchapu.com"
   },
+  "sponsor": {
+    "wechat": ""
+  },
   "analytics": {
     "enable": false,
     "google": {
